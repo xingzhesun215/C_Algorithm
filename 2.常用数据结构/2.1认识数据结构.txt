@@ -1,0 +1,6 @@
+数据结构主要是表示数据在计算机内存中所存储的位置及其模式
+1,基本数据类型   int float double char void
+2,结构化数据类型 字符串String 数组array 指针pointer 列表list 文件file
+3,抽象数据类型   堆栈stack
+
+
