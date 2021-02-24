@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sun/c_algorithm/C_Algorithm/3.排序算法/3.2冒泡排序算法/main.cpp
+stdlib.h
+-
+stdio.h
+-
+
