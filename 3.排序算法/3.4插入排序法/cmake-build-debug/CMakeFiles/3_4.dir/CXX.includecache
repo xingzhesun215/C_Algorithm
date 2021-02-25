@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sun/c_algorithm/C_Algorithm/3.排序算法/3.4插入排序法/main.cpp
+stdlib.h
+-
+stdio.h
+-
+
